@@ -6,9 +6,23 @@ You tell Claude what you want to get better at (expressing ideas precisely, admi
 
 ## Why
 
-Frequent conversations with AI change how people talk to each other, and not always in the same direction. Lab studies show that behavior toward bots spills over into how people later treat humans, that an endlessly charitable AI listener can make human conversation feel more effortful by contrast, and that a flattering AI makes people less willing to repair conflicts. The same mechanisms can be pointed the other way. This skill tries to do that deliberately.
+Experiments suggest that how people interact with AI carries over into how they then treat other people, and not always in the same direction.
 
-The research basis and its limits are summarized in the skill itself. Most of the evidence comes from short lab studies; the long-term transfer this skill aims at has not been measured. Treat it as an experiment, with your own feedback as the main signal.
+- **Behavior toward bots spills over to humans.** In two preregistered experiments (4,171 participants), people who first played a cooperation game with a bot cooperated less with a new human partner afterwards, apparently because the reduced empathy they felt toward the bot did not immediately reset [1]. In a separate pair of preregistered studies (N = 1,261), people who had just collaborated with an AI chatbot were more demanding and instrumental toward it, and then judged another person's work more harshly [2].
+- **An affirming AI can make human conversation feel worse by contrast.** Over three weeks, participants talking to a sycophantic AI about personal matters became nearly as likely to seek advice from it as from close friends and family, and reported lower satisfaction with their real-world social interactions, without spending less time with others [3].
+- **A flattering AI reduces willingness to repair conflicts.** After even a single interaction with a sycophantic model about an interpersonal conflict, participants were less willing to take responsibility and repair the relationship, and more convinced they were right, yet rated the model as more trustworthy [4].
+
+The same mechanisms can work the other way. In [1], bots that reciprocated cooperation (tit-for-tat) increased participants' later cooperation with humans. A voice agent that answered verbal abuse with empathy, rather than avoidance or counterattack, left users less angry and more guilty [5]. Claude's own conduct is a model the user rehearses against; this skill tries to make that deliberate.
+
+These are mostly short lab studies, with effects measured over minutes to weeks. The long-term transfer this skill aims at has not been measured, so treat it as an experiment, with your own feedback as the main signal. The skill itself summarizes how each finding shapes its behavior.
+
+### References
+
+1. Harrell, A., & Traeger, M. L. (2025). Evidence of spillovers from (non)cooperative human-bot to human-human interactions. *iScience*, 28(8), 113006. https://doi.org/10.1016/j.isci.2025.113006
+2. Tey, K. S., Mazar, A., Tomaino, G., Duckworth, A. L., & Ungar, L. H. (2024). People judge others more harshly after talking to bots. *PNAS Nexus*, 3(9), pgae397. https://doi.org/10.1093/pnasnexus/pgae397
+3. Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. Preprint, arXiv:2605.07912. https://doi.org/10.48550/arXiv.2605.07912
+4. Cheng, M., Lee, C., Khadpe, P., Yu, S., Han, D., & Jurafsky, D. (2026). Sycophantic AI decreases prosocial intentions and promotes dependence. *Science*, 391(6792). https://doi.org/10.1126/science.aec8352
+5. Chin, H., Molefi, L. W., & Yi, M. Y. (2020). Empathy is all you need: How a conversational agent should respond to verbal abuse. *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*, 1–13. https://doi.org/10.1145/3313831.3376461
 
 ## How it works
 

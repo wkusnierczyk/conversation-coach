@@ -16,9 +16,9 @@ First prototype.
 ### Research basis
 
 - Harrell and Traeger (2025). Evidence of spillovers from (non)cooperative human-bot to human-human interactions. iScience 28(8), 113006. https://doi.org/10.1016/j.isci.2025.113006
-- People judge others more harshly after talking to bots (2024). PNAS Nexus 3(9), pgae397. https://doi.org/10.1093/pnasnexus/pgae397
+- Tey, Mazar, Tomaino, Duckworth, Ungar (2024). People judge others more harshly after talking to bots. PNAS Nexus 3(9), pgae397. https://doi.org/10.1093/pnasnexus/pgae397
 - Ibrahim, Hafner, Cheng, Lee, Anselmetti, Willer, Rocher, Yang (2026). Sycophantic AI makes human interaction feel more effortful and less satisfying over time. arXiv:2605.07912
-- Cheng, Lee, Khadpe, Yu, Han, Jurafsky (2026). Sycophantic AI decreases prosocial intentions and promotes dependence. Science 391, eaec8352. arXiv:2510.01395
+- Cheng, Lee, Khadpe, Yu, Han, Jurafsky (2026). Sycophantic AI decreases prosocial intentions and promotes dependence. Science 391(6792). https://doi.org/10.1126/science.aec8352
 - Hiniker et al. (2021). Can conversational agents change the way children talk to people? IDC 2021.
 - Burton and Gaskin (2019). Study of digital assistants and politeness, AMCIS 2019.
 - Tankelevitch et al. (2024). The metacognitive demands and opportunities of generative AI. CHI 2024. arXiv:2312.10893
