@@ -1,0 +1,14 @@
+{
+  "name": "conversation-practice",
+  "owner": {
+    "name": "Waclaw Kusnierczyk",
+    "url": "https://github.com/wkusnierczyk"
+  },
+  "plugins": [
+    {
+      "name": "conversation-practice",
+      "source": "./",
+      "description": "Turns chats with Claude into practice for human-to-human communication."
+    }
+  ]
+}
