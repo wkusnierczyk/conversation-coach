@@ -1,6 +1,6 @@
-# conversation-practice
+# conversation-coach
 
-A Claude skill that turns everyday chats with Claude into practice for conversations with people.
+A Claude plugin with one skill, `conversation-practice`, that turns everyday chats with Claude into practice for conversations with people.
 
 You tell Claude what you want to get better at (expressing ideas precisely, admitting when you don't know, patience when misunderstood, perspective-taking in conflict, and so on). Claude keeps helping with whatever you actually asked, and adapts how it responds so the conversation doubles as practice.
 
@@ -28,8 +28,8 @@ Intensity is `off`, `light` (default) or `active`. Say "practice off" at any tim
 ### Claude Code
 
 ```
-/plugin marketplace add wkusnierczyk/conversation-practice
-/plugin install conversation-practice@conversation-practice
+/plugin marketplace add wkusnierczyk/conversation-coach
+/plugin install conversation-coach@conversation-coach
 ```
 
 ### Claude apps

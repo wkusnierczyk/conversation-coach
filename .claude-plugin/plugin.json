@@ -1,13 +1,18 @@
 {
-  "name": "conversation-practice",
+  "name": "conversation-coach",
   "version": "0.1.0",
   "description": "Turns chats with Claude into practice for human-to-human communication, adapting responses to goals the user sets.",
   "author": {
     "name": "Waclaw Kusnierczyk",
     "url": "https://github.com/wkusnierczyk"
   },
-  "homepage": "https://github.com/wkusnierczyk/conversation-practice",
-  "repository": "https://github.com/wkusnierczyk/conversation-practice",
+  "homepage": "https://github.com/wkusnierczyk/conversation-coach",
+  "repository": "https://github.com/wkusnierczyk/conversation-coach",
   "license": "MIT",
-  "keywords": ["communication", "practice", "skill", "conversation"]
+  "keywords": [
+    "communication",
+    "practice",
+    "skill",
+    "conversation"
+  ]
 }
